@@ -1,3 +1,4 @@
-profile:dev6
-server:
-  port:8888
+{
+    profile: "dev6",
+    server.port: 8888
+}
